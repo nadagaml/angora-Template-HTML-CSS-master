@@ -1,0 +1,33 @@
+@media screen and (min-width :1200px) and (max-width :1399.98px){
+    .c-client{
+        height: 450px ;
+    }
+    .slide-text{
+        position: relative;
+        width: 60% !important;
+    }
+    .carousel-indicators img{
+
+
+        width: 105px !important; 
+        height: 105px !important;
+             }
+
+    .lg-p{
+    
+        font-weight:400;
+        font-size:  1.5rem;
+        line-height:2.5rem;
+        color: #282828    ;
+    }
+    .crs-btn{
+        position: absolute;
+        top: 50%;
+    height: 30px;    
+    }
+.txt{
+    width: 95% !important;
+}
+
+
+}

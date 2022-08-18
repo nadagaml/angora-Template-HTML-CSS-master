@@ -1,0 +1,113 @@
+@media screen and (min-width :576px) and (max-width :767.98px){
+
+
+    .h1{
+  
+        font-weight:700;
+        font-size: 2.25rem;
+        line-height:2.25rem;
+    }
+    .carousel-caption
+    
+    {
+        position: absolute !important;
+    }
+    
+    .navbar-toggler-icon{
+        width: 24px !important;
+        height: 19px !important;
+    }
+
+    .nav-icon{
+        display: none;
+    }
+    .about-top{
+        width: 100% !important;
+    }
+    .card{
+        width: 39rem !important;
+        position: relative;
+        right: 10%;
+
+    }
+    .p{
+        line-height: 1.5rem;
+
+    }
+    .d-flex{
+        position: relative;
+right: 10%;    }
+    .about-letter h2{
+        width: 100% ;
+
+    }
+    .c-client{
+        height: 400px ;
+    }
+    .slide-text{
+        position: relative;
+        width: 100% !important;
+    }
+    .carousel-indicators img{
+
+
+        width: 60px !important; 
+        height: 60px !important;
+             }
+
+    .lg-p{
+    
+        font-weight:400;
+        font-size:  1.5rem;
+        line-height:2.5rem;
+        color: #282828    ;
+    }
+    .crs-btn{
+        position: absolute;
+        top: 50%;
+    height: 30px;    
+    }
+    .contact-move{
+        position: relative;
+right: 0;        
+    }
+
+    .pr{
+        font-size: 1.5rem;
+        line-height: 1.5rem;
+    }
+
+    .contact-form input{
+        width: 551px !important;
+    }
+    .contact-form textarea{
+        width: 551px !important;
+    
+    
+    }
+    .txt{
+        width: 100% !important;
+
+    
+    }
+    .txt-sm a{
+        position: relative;
+        right: 0;
+    }
+    
+        .copyright{
+            position: relative;
+    right: 3rem;
+    margin-top: 0.5rem;
+
+        }
+
+    
+        .copyright{
+            position: relative;
+    right: 3rem;
+    margin-top: 0.5rem;
+
+        }
+
+}

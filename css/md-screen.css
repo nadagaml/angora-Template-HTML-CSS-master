@@ -1,0 +1,72 @@
+@media screen and (min-width :768px) and (max-width :991.98px){
+    .navbar-toggler-icon{
+        width: 24px !important;
+        height: 19px !important;
+    }
+
+    .nav-icon{
+        display: none;
+    }
+.navbar-brand{
+    position: absolute !important;
+    left: -7%;
+}
+.about-top{
+    width: 100% !important;
+}
+.card{
+    width: 45rem !important;
+    position: relative;
+    right: 0;
+
+}
+.p{
+    line-height: 1.5rem;
+
+}
+.port-info p{
+    text-align: left;
+}
+.about-letter h2{
+    width: 100% ;
+
+}
+.c-client{
+    height: 400px ;
+}
+.slide-text{
+    position: relative;
+    width: 100% !important;
+}
+.carousel-indicators img{
+
+
+    width: 62px !important; 
+    height: 62px !important;
+         }
+
+.lg-p{
+
+    font-weight:400;
+    font-size:  1.5rem;
+    line-height:2.5rem;
+    color: #282828    ;
+}
+.crs-btn{
+    position: absolute;
+    top: 50%;
+height: 30px;    
+}
+.contact-form input{
+    width: 338px !important;
+}
+.contact-form textarea{
+    width: 338px !important;
+
+
+}
+.copyright{
+    width: 100% !important;
+}
+
+}

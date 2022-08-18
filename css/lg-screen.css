@@ -1,0 +1,68 @@
+@media screen and (min-width :992px) and (max-width :1199.98px){
+   
+    .about-top{
+        width: 60% !important;
+    }
+    .card{
+        width: 13rem !important;
+    position: relative;
+    right:10%;
+    margin-left: 2rem;
+
+
+    }
+    .g-lg-5,
+    .gx-lg-5 {
+        --bs-gutter-x: 3rem !important;
+      }    
+      
+      .p{
+        line-height: 1.5rem;
+    
+    }
+    .port-info p{
+        text-align: left;
+    }
+    .about-letter h2{
+        width: 100% ;
+    
+    }
+    .c-client{
+        height: 400px ;
+    }
+    .slide-text{
+        position: relative;
+        width: 100% !important;
+    }
+    .carousel-indicators img{
+
+
+        width: 85px !important; 
+        height: 85px !important;
+             }
+
+    .lg-p{
+    
+        font-weight:400;
+        font-size:  1.5rem;
+        line-height:2.5rem;
+        color: #282828    ;
+    }
+    .crs-btn{
+        position: absolute;
+        top: 50%;
+    height: 30px;    
+    }
+    .contact-form input{
+        width: 447px !important;
+    }
+    .contact-form textarea{
+        width: 447px !important;
+    
+    
+    }
+    .copyright{
+        width: 100% !important;
+    }
+    
+}
